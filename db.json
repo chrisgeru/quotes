@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Explicit is better than implicit."
+    }
+  ],
+  "profile": {
+    "name": "chrisgeru"
+  }
+}
