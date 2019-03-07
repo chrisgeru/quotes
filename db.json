@@ -18,8 +18,7 @@
     },
     {
       "id": 4,
-      "title": "Flat is better than nested.
-      "
+      "title": "Flat is better than nested."
     },
     {
       "id": 5,
@@ -61,7 +60,6 @@
       "id": 14,
       "title": "Although practicality beats purity."
     },
-
     {
       "id": 15,
       "title": "Errors should never pass silently."
